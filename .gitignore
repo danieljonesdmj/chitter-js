@@ -1,0 +1,6 @@
+MIT.LICENSE
+.DS_Store
+/lib/*
+/node_modules/*
+package-lock.json
+package.json
